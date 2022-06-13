@@ -7,8 +7,8 @@ async def start(client, message):
     joinButton = InlineKeyboardMarkup([
         [InlineKeyboardButton("Updates Channel", url="https://t.me/TeamOutruix")
       ],
-      [ 
-        InlineKeyboardButton(
+       
+        [InlineKeyboardButton(
             "Support Group", url="https://t.me/OutruixChat")]
     ])  
     helptxt = f"<b> Just send a Youtube url to download it in video or audio format!\n\n ~ @TeamOutruix </b>"
