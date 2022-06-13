@@ -1,16 +1,16 @@
 {
-    "name": "Telegraph Bot",
-    "description": "A bot that can upload photos and video to telegraph.",
+    "name": "Yt Downlaoder Bot",
+    "description": "A bot that can upload youtube video to telegram.",
     "logo": "https://telegra.ph/file/3db812d9dcf60ab1a5997.jpg",	
     "keywords": [
         "youtube",
         "Uploader",
         "Telegram Bot",
-        "DT Bots"
+        "Outruix"
     ],
-    "website": "https://Damantha.tk/web",
-    "repository": "https://github.com/Damantha126/DT-TelegraphBot",
-    "success_url": "https://t.me/slbotzone",
+    "website": "https://gbimsath.carrd.co/",
+    "repository": "https://github.com/gbimsath/Yt-Vid-Downloader",
+    "success_url": "https://t.me/TeamOutruix",
     "env": {
         "BOT_TOKEN": {
             "description": "Your Telegram Bot Token from @BotFather",
